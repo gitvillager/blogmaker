@@ -15,3 +15,10 @@ author: gitvillager
 이것은 파이썬 페이지이다
 
 마크다운 형태로 작성하면 된다
+
+~~~javascript
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+~~~
